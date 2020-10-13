@@ -1,0 +1,26 @@
+{
+	"name": "highlightjs-total-free-rpg-iv",
+	"version": "0.0.1",
+	"description": "RPG IV a.ka. ILE RPG total-free syntax highlighting plugin for highlight.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"syntax highlighting",
+		"highlight.js",
+		"ibm i",
+		"as400",
+		"iSeries",
+		"ILE RPG",
+		"RPG IV",
+		"RPG 4",
+		"RPGLE"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KerimG/highlightjs-total-free-rpg-iv"
+	},
+	"author": "Kerim Güney <kerim.gueney@taskforce-it.de> (https://taskforce-it.de)",
+	"license": "MIT"
+}
